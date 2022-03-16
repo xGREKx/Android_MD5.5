@@ -44,3 +44,20 @@ public class MainActivity extends AppCompatActivity {
 }
 
 ```
+
+## Message
+
+```Java
+
+public class MessageReceiver extends BroadcastReceiver {
+
+    @Override
+    public void onReceive(Context context, Intent intent) {
+        Toast.makeText(context, "Сообщение: " +
+                        intent.getStringExtra("com.example.broadcastmessages.broadcast.Message"),
+                Toast.LENGTH_LONG).show();
+    }
+
+}
+
+```
