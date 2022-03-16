@@ -62,6 +62,14 @@ public class MessageReceiver extends BroadcastReceiver {
 
 ```
 
+## ActivityMain
+
+```Java
+android:onClick="sendMessage"
+        android:text="Отправить сообщение"
+        
+``` 
+
 ## How it works
 
 ![image](ex1.png)
