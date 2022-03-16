@@ -1,7 +1,6 @@
 ## Manifest
 
 ```Java
-    
     <application
         android:allowBackup="true"
         android:icon="@mipmap/ic_launcher"
@@ -48,7 +47,6 @@ public class MainActivity extends AppCompatActivity {
 ## Message
 
 ```Java
-
 public class MessageReceiver extends BroadcastReceiver {
 
     @Override
@@ -59,7 +57,6 @@ public class MessageReceiver extends BroadcastReceiver {
     }
 
 }
-
 ```
 
 ## ActivityMain
