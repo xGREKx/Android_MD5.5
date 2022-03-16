@@ -61,3 +61,6 @@ public class MessageReceiver extends BroadcastReceiver {
 }
 
 ```
+
+## How it works
+
