@@ -65,3 +65,5 @@ public class MessageReceiver extends BroadcastReceiver {
 ## How it works
 
 ![image](ex1.png)
+
+![image](ex2.png)
