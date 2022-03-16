@@ -66,8 +66,7 @@ public class MessageReceiver extends BroadcastReceiver {
 
 ```Java
 android:onClick="sendMessage"
-        android:text="Отправить сообщение"
-        
+        android:text="Отправить сообщение"     
 ``` 
 
 ## How it works
